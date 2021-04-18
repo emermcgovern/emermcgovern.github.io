@@ -19,8 +19,8 @@
      margin-right: auto;}
 
      .carousel-fade .carousel-item, .carousel-item img  {
-      max-height: 100px;
-      max-width: 120px;}
+      max-height: 200px;
+      max-width: 200px;}
 
      .nav-menu li
      {display: inline;

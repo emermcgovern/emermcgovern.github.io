@@ -18,6 +18,9 @@
      margin-left: auto;
      margin-right: auto;}
 
+     .carousel-fade .carousel-item, .carousel-item img  {
+      max-height: 150px;}
+
      .nav-menu li
      {display: inline;
      font-size: large;
